@@ -13,7 +13,8 @@
   <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">   
+  <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> 
+  <img align="center" alt="70HN-Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
 </div>
  
   
