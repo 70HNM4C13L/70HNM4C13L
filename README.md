@@ -1,4 +1,5 @@
- Oi, eu sou o Johnatas, estudante de ciencia de dados e entusiasta de tecnologia!
+  Hi, I'm Johnatas, a data science student and technology enthusiast!<br>
+  Olá, sou Johnatas, estudante de ciência de dados e entusiasta de tecnologia!
 <div align="center">
   <a href="https://github.com/70HNM4C13L">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=70HNM4C13L&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
